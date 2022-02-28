@@ -1,0 +1,17 @@
+{
+  "name": "upload-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image_upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "deepai": "^1.0.21",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
